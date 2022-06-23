@@ -6,3 +6,5 @@
 * version 004
 * version 005
 
+* v1
+* v2-local
